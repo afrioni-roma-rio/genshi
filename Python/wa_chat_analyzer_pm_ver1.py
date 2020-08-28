@@ -9,6 +9,7 @@ from datetime import datetime #pip install DateTime
 from dateutil import parser #pip install python-dateutil
 import warnings 
 warnings.filterwarnings('ignore')
+#coba coba latihan git
 
 
 # read the file
